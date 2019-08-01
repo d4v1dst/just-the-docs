@@ -2,7 +2,7 @@
 // // Typography
 // //
 //
- $body-font-family: "IBM Plex Sans";
+$body-font-family: "IBM Plex Sans";
 // $mono-font-family: "SFMono-Regular", Menlo, Consolas, Monospace;
 // $root-font-size: 16px;         // Base font-size for rems
 // $body-line-height: 1.4;
@@ -18,9 +18,9 @@
 // $grey-dk-100: #5c5962;
 // $grey-dk-200: #44434d;
 // $grey-dk-250: #302d36 !default;
- $grey-dk-300: #27262b;
+$grey-dk-300: #27262b;
 //
- $grey-lt-000: #f5f6fa;
+$grey-lt-000: #f5f6fa;
 // $grey-lt-100: #eeebee;
 // $grey-lt-200: #ecebed;
 // $grey-lt-300: #e6e1e8;
@@ -30,10 +30,10 @@
 // $purple-200: #4e26af;
 // $purple-300: #381885;
 //
- $blue-000: #2c84fa;
- $blue-100: #2869e6;
- $blue-200: #264caf;
- $blue-300: #183385;
+$blue-000: #2c84fa;
+$blue-100: #2869e6;
+$blue-200: #264caf;
+$blue-300: #183385;
 //
 // $green-000: #41d693;
 // $green-100: #11b584;
@@ -41,14 +41,14 @@
 // $green-300: #026e57;
 //
 // $body-background-color: $white !default;
- $sidebar-color: $blue-000 !default;
- $code-background-color: $grey-lt-000 !default;
+//  $sidebar-color: $blue-000 !default;
+//  $code-background-color: $grey-lt-000 !default;
 
 // $body-text-color: $grey-dk-100 !default;
- $body-heading-color: $grey-dk-300 !default;
- $nav-child-link-color: $blue-100 !default;
- $link-color: $blue-000 !default;
- $btn-primary-color: $blue-100 !default;
+//  $body-heading-color: $grey-dk-300 !default;
+//  $nav-child-link-color: $blue-100 !default;
+$link-color: $blue-000 !default;
+//  $btn-primary-color: $blue-100 !default;
 // $base-button-color: #f7f7f7 !default;
 //
 // //
