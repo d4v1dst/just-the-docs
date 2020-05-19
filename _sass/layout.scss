@@ -17,7 +17,7 @@
 
 .side-bar {
   z-index: 100;
-  display: flex;
+  display: $sidebar-display;
   flex-wrap: wrap;
   padding-top: $gutter-spacing-sm;
   padding-bottom: $gutter-spacing-sm;
