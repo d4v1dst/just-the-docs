@@ -3,7 +3,7 @@
 //
 
 .site-title {
-  display: block;
+  display: $sitetitle-display;
   flex: 1 1 auto;
   color: $body-heading-color;
   background-color: $sidebar-color;
